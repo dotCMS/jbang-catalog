@@ -1,0 +1,8 @@
+{
+  "aliases": {
+    "jreleaser-cli": {
+      "script-ref": "jreleaser_cli.java",
+      "description": "app -- Sample Quarkus CLI application"
+    }
+  }
+}
