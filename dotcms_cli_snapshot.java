@@ -1,7 +1,7 @@
 //usr/bin/env jbang "$0" "$@" ; exit $?
 //JAVA 11+
 //REPOS jitpack
-//DEPS com.github.dotCMS.core:dotcms-cli:issue-26189-explore-jbang-features-SNAPSHOT
+//DEPS com.github.dotCMS.core:issue-26189-explore-jbang-features
 // Generated with JReleaser 1.8.0 at 2023-10-16T19:33:45.385585+02:00
 
 public class dotcms_cli_snapshot {
