@@ -1,9 +1,5 @@
 {
   "aliases" : {
-    "jreleaser-cli" : {
-      "script-ref" : "jreleaser_cli.java",
-      "description" : "app -- Sample Quarkus CLI application"
-    },
     "dotcms-cli-snapshot" : {
       "script-ref" : "dotcms_cli_snapshot.java",
       "description" : "app -- DotCMS CLI"
