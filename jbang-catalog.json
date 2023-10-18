@@ -11,6 +11,10 @@
     "qcli-jbang" : {
       "script-ref" : "qcli_jbang.java",
       "description" : "app -- Sample Quarkus CLI application"
+    },
+    "dotcms-cli" : {
+      "script-ref" : "dotcms_cli.java",
+      "description" : "app -- DotCMS CLI"
     }
   }
 }
