@@ -4,4 +4,5 @@
       "script-ref" : "qcli_jbang.java",
       "description" : "app -- Sample Quarkus CLI application"
     }
+  }
 }
