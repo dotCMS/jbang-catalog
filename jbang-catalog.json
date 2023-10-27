@@ -3,6 +3,10 @@
     "qcli-jbang" : {
       "script-ref" : "qcli_jbang.java",
       "description" : "app -- Sample Quarkus CLI application"
+    },
+    "jreleaser-cli-snapshot" : {
+      "script-ref" : "jreleaser_cli_snapshot.java",
+      "description" : "app -- Sample Quarkus CLI application"
     }
   }
 }
