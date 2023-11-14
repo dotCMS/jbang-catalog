@@ -11,6 +11,10 @@
     "dotcms-cli-snapshot" : {
       "script-ref" : "dotcms_cli_snapshot.java",
       "description" : "app -- DotCMS CLI"
+    },
+    "dotcms-cli" : {
+      "script-ref" : "dotcms_cli.java",
+      "description" : "app -- DotCMS CLI"
     }
   }
 }
