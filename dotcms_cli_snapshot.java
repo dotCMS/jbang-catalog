@@ -2,7 +2,7 @@
 //JAVA 11+
 //REPOS jitpack
 //DEPS com.github.dotCMS.core:dotcms-cli:issue-26500-implement-configure-jbang-on-dotcms-cli-release-process-SNAPSHOT
-// Generated with JReleaser 1.9.0 at 2023-11-20T14:29:19.684819+01:00
+// Generated with JReleaser 1.9.0 at 2023-11-20T18:56:14.313011+01:00
 
 public class dotcms_cli_snapshot {
     public static void main(String... args) throws Exception {
