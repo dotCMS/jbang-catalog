@@ -1,9 +1,8 @@
 //usr/bin/env jbang "$0" "$@" ; exit $?
 //JAVA 11+
-// //REPOS jitpack
-// //DEPS com.github.dotCMS.core:dotcms-cli:issue-26500-implement-configure-jbang-on-dotcms-cli-release-process-SNAPSHOT
-//DEPS com.dotcms:dotcms-cli:1.0.0-SNAPSHOT
-// Generated with JReleaser 1.9.0 at 2023-11-14T17:06:11.346908+01:00
+//REPOS jitpack
+//DEPS com.github.dotCMS.core:dotcms-cli:issue-26500-implement-configure-jbang-on-dotcms-cli-release-process-SNAPSHOT
+// Generated with JReleaser 1.9.0 at 2023-11-20T13:54:05.014481+01:00
 
 public class dotcms_cli_snapshot {
     public static void main(String... args) throws Exception {
